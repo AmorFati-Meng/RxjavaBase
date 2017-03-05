@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/base_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/blue" >
+        <ImageView
+            android:id="@+id/title_back"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:padding="14dp"
+            android:scaleType="centerInside"
+           />
+
+        <TextView
+            android:id="@+id/title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/white"
+            android:text="@string/app_name"
+            />
+
+
+        <ImageView
+            android:visibility="gone"
+            android:id="@+id/title_right"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="12dp"
+            android:padding="2dp"
+            android:scaleType="fitCenter"
+            />
+
+        <TextView
+            android:id="@+id/tv_save"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:text="保存"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:visibility="gone"/>
+    </RelativeLayout>
+   <!-- <TextView
+        android:id="@+id/tv_netError"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow"
+        android:visibility="gone"
+        android:textColor="@color/gray"
+        android:padding="@dimen/margin_5"
+        android:text="网络不给力，请检查网络设置。"/>-->
+
+
+
+    <FrameLayout
+        android:id="@+id/fly_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:background="@color/white"
+        >
+    </FrameLayout>
+
+   <!-- <View
+        style="@style/line_gray"
+        ></View>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:id="@+id/ly_tab"
+        android:background="@color/white"
+        >
+        <LinearLayout
+
+            android:layout_marginTop="@dimen/DIMEN_6PX"
+            android:layout_marginBottom="@dimen/DIMEN_6PX"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DIMEN_48PX"
+            android:orientation="horizontal"
+
+            >
+            <RadioGroup
+                android:id="@+id/rag_tab"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+
+                <RadioButton
+                    android:id="@+id/rtn_work"
+                    android:text="工作台"
+                    android:textColor="@drawable/tab_selector_tv_color"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.0"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:drawableTop="@drawable/tab_selector_bg"
+                    android:layout_height="match_parent" />
+                <RadioButton
+                    android:id="@+id/rtn_msg"
+                    android:text="消息"
+                    android:textColor="@drawable/tab_selector_tv_color"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.0"
+                    android:drawableTop="@drawable/tab_selector_bg_msg"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:layout_height="match_parent" />
+                <RadioButton
+                    android:id="@+id/rtn_money"
+                    android:text="财务"
+                    android:textColor="@drawable/tab_selector_tv_color"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.0"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:drawableTop="@drawable/tab_selector_bg_money"
+                    android:layout_height="match_parent" />
+                <RadioButton
+                    android:id="@+id/rtn_me"
+                    android:text="我的"
+                    android:textColor="@drawable/tab_selector_tv_color"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.0"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:drawableTop="@drawable/tab_selector_bg_me"
+                    android:layout_height="match_parent" />
+            </RadioGroup>-->
+
+        </LinearLayout>
+

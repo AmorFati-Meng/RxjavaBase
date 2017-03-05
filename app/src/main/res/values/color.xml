@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="all_bg">#d8d8d8</color>
+    <color name="titleBlue">#0096FF</color>
+    <color name="titleBlue2">#0195FF</color>
+    <color name="btn_bg">#ff4640</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_transparent">#50000000</color>
+    <color name="common_top">#FF515F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_light">#59dacd</color>
+    <color name="bg_main">#F0F0F0</color>
+    <color name="text_color">#3e3e3e</color>
+    <color name="black">#000000</color>
+    <color name="gray">#555555</color>
+    <color name="font_gary_7f7f7f">#7f7f7f</color>
+    <color name="font_black_05">#050616</color>
+    <color name="font_black_3e">#3e3e3e</color>
+    <color name="font_black_59">#595959</color>
+    <color name="font_gray_af">#afaeae</color>
+    <color name="font_gray_ed">#ededed</color>
+    <color name="font_gray_81">#81818a</color>
+    <color name="font_gray_90">#909090</color>
+    <color name="font_red_f0">#f06666</color>
+    <color name="font_black_4f">#4f4f4f</color>
+    <color name="background_f1">#f1eff0</color>
+    <color name="red">#FF0000 </color>
+    <color name="yellow">#ffa25f</color>
+    <color name="dark">#FF222222</color>
+    <color name="light">#FFEEEEEE</color>
+    <color name="gray_white">#ebebeb</color>
+    <color name="gray_light">#887c7c7c</color>
+    <color name="gray_blue">#f1faff</color>
+    <color name="gray_lights">#f2f2f2</color>
+    <color name="gray_dark">#2e2e2e</color>
+    <color name="yellow_text">#FFAC00</color>
+    <color name="red_bg">#f06666 </color>
+    <color name="red_bg_light">#f28a56</color>
+    <color name="blue_bg">#1687C3 </color>
+    <color name="blue_bg_light">#704EABD8 </color>
+    <color name="green_bg">#01BB9C </color>
+    <color name="red_light">#ff837f</color>
+    <color name="green_light">#01AB8B</color>
+    <color name="blue2">#0000ff</color>
+   <!--字体颜色-->
+    <color name="red_txt">#f26856</color>
+    <color name="gray_txt">#81818a</color>
+    <color name="black_txt">#050616</color>
+    <color name="blue_txt">#2190dd</color>
+    <color name="green_txt">#6dc751</color>
+    <color name="yellow_txt">#f9c012</color>
+    <color name="green_text">#94B9BF</color>
+
+
+    <!-- 页面背景色 -->
+    <color name="background">#f6f6f6</color>
+    <!-- 标题背景色 -->
+    <color name="head_bg_color">#000000</color>
+    <!-- 背景色 -->
+    <color name="bg_e9">#e9e9e9</color>
+    <color name="font_edit">#fc6000</color>
+    <color name="blue3">#00A6FF</color>
+    <color name="blue4">#6eb0c5</color>
+    <color name="blue">#5dbae7</color>
+
+    <!-- 扫描二维码 -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="blue_01A6FF">#00a6FF</color>
+
+    <color name="gray_ef">#EFEFEF</color>
+    <color name="store_item_dark">#00a6ff</color>
+    <color name="store_item_light">#73caff</color>
+
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+   <!-- <color name="white">#ffffff</color>-->
+    <color name="backgroundgray">#eeeeee</color>
+    <color name="titleWhite">#f5f5f5</color>
+   <!-- <color name="titleBlue">#0096FF</color>
+    <color name="titleBlue2">#0195FF</color>-->
+    <color name="textBlue">#324d82</color>
+    <color name="textBlueLight">#23a4ff</color>
+    <color name="bggreen">#52c6ff</color>
+    <color name="bgYellow">#ffb952</color>
+    <color name="greenlight">#79ca05</color>
+    <color name="greenlight2">#a6e34e</color>
+    <color name="appTextBlue">#28a6ff</color>
+    <color name="appTextGray">#888888</color>
+    <color name="blackalpha">#cc000000</color>
+    <color name="whiteShallow">#fdfdfd</color>
+    <color name="whiteGary">#f2f2f2</color>
+    <color name="whiteTxtBg">#f9f9f9</color>
+    <color name="redText">#f46d6a</color>
+    <color name="redBorder">#ff3433</color>
+    <color name="redSelect">#E84A4A</color>
+    <color name="blueName">#576b95</color>
+    <color name="blueText">#597bba</color>
+   <!-- <color name="black">#ff000000</color>-->
+    <color name="blacktext">#1c1c1c</color>
+    <color name="oldGray">#505050</color>
+    <color name="old2Gray">#3f3f3f</color>
+    <color name="titleBlack">#3e3e3e</color>
+    <color name="textBlack">#202020</color>
+    <color name="contentBlack">#444444</color>
+    <color name="examBgBlue">#CDE5FF</color>
+    <color name="textRed">#ff4e3c</color>
+    <color name="commentBlack">#5d5d5d</color>
+    <color name="grayAction">#e1e1e1</color>
+    <color name="grayText">#aaaaaa</color>
+    <color name="newgrayText">#52c7f3</color>
+    <color name="grayA">#aaaaaa</color>
+    <color name="grayText2">#8f8f8f</color>
+    <color name="grayText3">#757575</color>
+    <color name="grayLine">#b4b4b4</color>
+    <color name="grayLine2">#dedede</color>
+    <color name="lightBlue1">#00a2ff</color>
+    <color name="lightBlue2">#008ee0</color>
+    <color name="lightBlue3">#036eac</color>
+    <color name="brownBlack">#3E4B54</color>
+    <color name="other">#fff00f</color>
+   <!-- <color name="blue">#0000FF</color>-->
+    <color name="lightBlueDark">#00436a</color>
+    <color name="garyClickBg">#f3f3f3</color>
+    <color name="grayBlack">#6b6b6b</color>
+    <color name="grayBlack2">#a9a9a9</color>
+    <color name="grayBlack3">#bebebe</color>
+    <color name="garyTrigon">#dadada</color>
+    <color name="garyLight">#d4d4d4</color>
+    <color name="garyLight2">#e3e3e3</color>
+    <color name="garyLight3">#e9e9e9</color>
+    <color name="garyLight4">#e6e6e6</color>
+    <color name="garyLight5">#f8f8f8</color>
+   <!-- <color name="transparent">#00000000</color>-->
+    <color name="mask">#90000000</color>
+    <color name="maskLight">#70000000</color>
+    <color name="deepBlue">#0082db</color>
+    <color name="deepBlue2">#006ab3</color>
+    <color name="drakBlue">#41598a</color>
+    <color name="wheelBlue">#3598da</color>
+    <color name="wheelBlue_press">#1c4a68</color>
+
+    <color name="border_danxiang">#ff6b57</color>
+    <color name="border_duoxuan">#57d2ff</color>
+    <color name="border_budingxiang">#ffb657</color>
+    <color name="border_panduan">#1e83ff</color>
+    <color name="border_tiankong">#ed49d8</color>
+    <color name="border_zhuguang">#57ffc6</color>
+    <color name="examcardblue">#55baff</color>
+    <color name="mooc_index_gray">#717171</color>
+    <color name="mooc_index_alphe">#bb000000</color>
+    <color name="mooc_index_alphe2">#77000000</color>
+    <color name="mooc_index_dirgray">#d9d9d9</color>
+    <color name="mooc_index_appheblack">#cc000000</color>
+    <color name="yellowBotton">#ff8400</color>
+    <color name="yellowBotton2">#ff6600</color>
+
+   <!-- <color name="gray">#808080</color>
+    <color name="red">#ff0000</color>-->
+    <color name="redNewMsg">#f43531</color>
+
+    <color name="lightGray">#BFBFBF</color>
+    <color name="unfocused">#cccccccc</color>
+    <color name="pressed">#fff22fff</color>
+    <color name="selected">#fff33fff</color>
+    <color name="focused">#ffff44ff</color>
+
+
+    <color name="none_color">#00000000</color>
+
+    <color name="yancy_green500">#259b24</color>
+    <color name="yancy_green600">#0a8f08</color>
+    <color name="yancy_green700">#0a7e07</color>
+    <color name="yancy_green800">#056f00</color>
+    <color name="yancy_background">#181819</color>
+    <color name="dark_gray">#FF343535</color>
+    <color name="text_gray">#FF999999</color>
+    <color name="photo_mask">#88000000</color>
+    <color name="separation">#FFDCDCDC</color>
+    <color name="text_black">#FF333333</color>
+
+    <!-- 监控-->
+    <color name="black_bg">#000000</color>
+    <color name="shadow">#80000000</color>
+    <color name="dark_bg_70p">#bb000000</color>
+    <color name="dark_bg_20p">#33000000</color>
+    <color name="common_bg">#f0f0f3</color>
+    <color name="title_text">#333333</color>
+    <color name="title_line">#b2b2b2</color>
+    <color name="common_line">#c8c7cc</color>
+    <color name="common_text">#333333</color>
+    <color name="common_text_sel">#3aa3ee</color>
+    <color name="common_sub_text">#888888</color>
+    <color name="common_hint_text">#adadad</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="corsor_color">#adadad</color>
+    <color name="quality_focused_color">#448cf3</color>
+    <color name="source_detection_btn_color">#48a9fb</color>
+    <color name="preview_quality_color">#3eaefa</color>
+
+</resources>
