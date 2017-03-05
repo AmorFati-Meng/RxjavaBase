@@ -35,5 +35,8 @@ public class NetWork  extends RetrofitUtils {
                 .observeOn(AndroidSchedulers.mainThread())//回调到主线程
                 .subscribe(observer);
     }
-
+    //POST请求
+    public static void verfacationCodePost(String tel, String pass,Observer<String> observer){
+        setSubscribe(service.getVerfcationCodePost(tel, pass),observer);
+    }
 }
